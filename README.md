@@ -7,9 +7,9 @@
 ![banner4](https://user-images.githubusercontent.com/13663615/164762734-10cb624a-76f1-400f-8414-a31d22b4c3d7.png)
 
 ## Hi, I'm Igor 👋
-I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple and clean code solutions for complex problems.
+I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple, clean, testable and reusable code solutions for complex problems.
 
-## Technical skills
+## 💼 Technical skills
 <!-- add: nestjs, javascript, express, redis, rabbitmq, typescript, jest, springboot -->
 ![](https://img.shields.io/badge/BE-Node.js-informational?style=flat&logo=Node.js&color=brightgreen)
 ![](https://img.shields.io/badge/BE-Java-informational?style=flat&logo=Java&color=orange&logoColor=orange)
