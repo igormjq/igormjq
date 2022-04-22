@@ -6,7 +6,10 @@
 <!-- ![image](https://user-images.githubusercontent.com/13663615/164760934-eafb8490-a909-4ca6-8983-d863f662f5f0.png) -->
 ![banner4](https://user-images.githubusercontent.com/13663615/164762734-10cb624a-76f1-400f-8414-a31d22b4c3d7.png)
 
-## Contact me on
+## Hi, I'm Igor 👋
+I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple and clean code for complex problems.
+
+### 📫 Contact me on
 [![Linkedin Badge](https://img.shields.io/badge/-igormjq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormjq/)](https://www.linkedin.com/in/igormjq/)
 [![Facebook](https://img.shields.io/badge/Igor%20Marini%20Jaekel%20Quevedo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/igormjq/)](https://www.facebook.com/igormjq/)
 [![Twitter](https://img.shields.io/badge/igormjq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/igormjq)](https://twitter.com/igormjq)
