@@ -8,6 +8,10 @@
 
 ## Contact me on
 [![Linkedin Badge](https://img.shields.io/badge/-igormjq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormjq/)](https://www.linkedin.com/in/igormjq/)
-<!-- ![Gmail](https://img.shields.io/badge/igormjq.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
 [![Facebook](https://img.shields.io/badge/Igor%20Marini%20Jaekel%20Quevedo-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/igormjq/)](https://www.facebook.com/igormjq/)
 [![Twitter](https://img.shields.io/badge/igormjq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/igormjq)](https://twitter.com/igormjq)
+<a href="mailto:igormjq.dev@gmail.com">
+  <img src="https://img.shields.io/badge/igormjq.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<div>
+
