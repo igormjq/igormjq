@@ -7,7 +7,21 @@
 ![banner4](https://user-images.githubusercontent.com/13663615/164762734-10cb624a-76f1-400f-8414-a31d22b4c3d7.png)
 
 ## Hi, I'm Igor 👋
-I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple and clean code for complex problems.
+I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple and clean code solutions for complex problems.
+
+## Technical skills
+<!-- add: nestjs, javascript, express, redis, rabbitmq, typescript, jest, springboot -->
+![](https://img.shields.io/badge/BE-Node.js-informational?style=flat&logo=Node.js&color=brightgreen)
+![](https://img.shields.io/badge/BE-Java-informational?style=flat&logo=Java&color=orange&logoColor=orange)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&color=blue&logoColor=white)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=blue&logoColor=white)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&color=116149)
+![](https://img.shields.io/badge/FE-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/FE-Vue.js-informational?style=flat&logo=Vue.js&color=brightgreen)
+![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=GraphQL&color=E10098&logoColor=E10098)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032&logoColor=F05032)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&color=2496ED&logoColor=2496ED)
+
 
 ### 📫 Contact me on
 [![Linkedin Badge](https://img.shields.io/badge/-igormjq-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igormjq/)](https://www.linkedin.com/in/igormjq/)
