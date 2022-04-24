@@ -4,7 +4,8 @@
 <!-- ![image](https://user-images.githubusercontent.com/13663615/164760491-9813af85-3123-4631-820d-3c62dd17892a.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/13663615/164760816-dfebed2e-7b23-4f0d-af53-3ebcb13f8dc3.png) -->
 <!-- ![image](https://user-images.githubusercontent.com/13663615/164760934-eafb8490-a909-4ca6-8983-d863f662f5f0.png) -->
-![banner4](https://user-images.githubusercontent.com/13663615/164762734-10cb624a-76f1-400f-8414-a31d22b4c3d7.png)
+<!-- ![banner4](https://user-images.githubusercontent.com/13663615/164762734-10cb624a-76f1-400f-8414-a31d22b4c3d7.png) -->
+![me js](https://user-images.githubusercontent.com/13663615/164958529-ffba4ab9-b08b-45f2-90ec-b2e4e281acce.png)
 
 ## Hi, I'm Igor 👋
 I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple, clean, testable and reusable code solutions for complex problems.
