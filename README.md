@@ -10,14 +10,20 @@
 I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple, clean, testable and reusable code solutions for complex problems.
 
 ## 💼 Technical skills
-<!-- add: nestjs, javascript, express, redis, rabbitmq, typescript, jest, springboot -->
-![](https://img.shields.io/badge/BE-Node.js-informational?style=flat&logo=Node.js&color=brightgreen)
-![](https://img.shields.io/badge/BE-Java-informational?style=flat&logo=Java&color=orange&logoColor=orange)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&color=blue&logoColor=white)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=blue&logoColor=white)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&color=116149)
-![](https://img.shields.io/badge/FE-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/FE-Vue.js-informational?style=flat&logo=Vue.js&color=brightgreen)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&color=3178C6)
+![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&color=brightgreen)
+![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=Java&color=orange&logoColor=orange)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Java&color=orange&logoColor=6DB33F)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&color=000000)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&color=E0234E&logoColor=E0234E)
+![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=Jest&color=C21325&logoColor=C21325)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=blue&logoColor=white)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=blue&logoColor=white)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=116149)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=Redis&color=DC382D)
+![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=Vue.js&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-GraphQL-informational?style=flat&logo=GraphQL&color=E10098&logoColor=E10098)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&color=F05032&logoColor=F05032)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&color=2496ED&logoColor=2496ED)
