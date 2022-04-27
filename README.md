@@ -11,11 +11,11 @@
 I am a software engineer 👨🏻‍💻 based in 🇧🇷 who likes to write simple, clean, testable and reusable code solutions for complex problems.
 
 ## 💼 Technical skills
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=Typescript&color=3178C6)
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=Node.js&color=brightgreen)
 ![](https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=Java&color=orange&logoColor=orange)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Java&color=orange&logoColor=6DB33F)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&color=6DB33F&logoColor=6DB33F)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=Express&color=000000)
 ![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&color=E0234E&logoColor=E0234E)
 ![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=Jest&color=C21325&logoColor=C21325)
